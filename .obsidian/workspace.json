@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fabca379d6e39dd0",
+        "id": "02b1a8322dc8fb5c",
         "type": "tabs",
         "children": [
           {
-            "id": "87e4d5b77f6df3a1",
+            "id": "1ddd2275212dccb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "ml/snippets.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "ml/snippets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "ml/snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,17 +125,33 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "ml/snippets.md"
               }
             }
+          },
+          {
+            "id": "bde2308c32cef518",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 299.5
   },
-  "active": "87e4d5b77f6df3a1",
-  "lastOpenFiles": []
+  "active": "1ddd2275212dccb4",
+  "lastOpenFiles": [
+    "ml/notes.md",
+    "img/Pasted image 20221211222928.png",
+    "ml/snippets.md",
+    "Pasted image 20221211215257.png.md",
+    "img/Pasted image 20221211215257.png",
+    "Foo.md",
+    "Untitled.md"
+  ]
 }
