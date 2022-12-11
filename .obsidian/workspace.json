@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf444fac42c86b9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ml/snippets/logistic_regression_lab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ml/snippets.md",
+                "file": "ml/snippets/logistic_regression_lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ml/snippets.md",
+                "file": "ml/snippets/logistic_regression_lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ml/snippets.md"
+                "file": "ml/snippets/logistic_regression_lab.md"
               }
             }
           },
@@ -144,11 +157,12 @@
     "direction": "horizontal",
     "width": 299.5
   },
-  "active": "1ddd2275212dccb4",
+  "active": "cf444fac42c86b9f",
   "lastOpenFiles": [
+    "ml/snippets.md",
+    "ml/snippets/logistic_regression_lab.md",
     "ml/notes.md",
     "img/Pasted image 20221211222928.png",
-    "ml/snippets.md",
     "Pasted image 20221211215257.png.md",
     "img/Pasted image 20221211215257.png",
     "Foo.md",

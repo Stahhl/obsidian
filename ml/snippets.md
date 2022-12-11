@@ -18,13 +18,23 @@ def compute_gradient_logistic(X, y, w, b):
     dj_db = 0.
 
     for i in range(m):
-        f_wb_i = sigmoid(np.dot(X[i],w) + b)          #(n,)(n,)=scalar
-        err_i  = f_wb_i  - y[i]                       #scalar
-        for j in range(n):
-            dj_dw[j] = dj_dw[j] + err_i * X[i,j]      #scalar
-        dj_db = dj_db + err_i
-    dj_dw = dj_dw/m                                   #(n,)
-    dj_db = dj_db/m                                   #scalar
+      f_wb_i = sigmoid(np.dot(X[i],w) + b)
+
+      # Calculate the  gradient for b from this example
+      dj_db_i = f_wb_i - y[i]
+
+      # add that to dj_db
+      dj_db += dj_db_i
+
+      # get dj_dw for each attribute
+      for j in range(n):
+          # You code here to calculate the gradient from the i-th example for j-th attribute
+          dj_dw_ij = dj_db_i * X[i,j] 
+          dj_dw[j] += dj_db_i * X[i,j]
+
+    # divide dj_db and dj_dw by total number of examples
+    dj_dw = dj_dw / m
+    dj_db = dj_db / m                                #scalar
         
     return dj_db, dj_dw 
 ```
