@@ -150,9 +150,53 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "09034339df7ac592",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "21be364fa5b2e9b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ml/Collaborative filtering/cost function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "830f11e7655001ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ml/Collaborative filtering/cost function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5de6f3db8742f51b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ml/Collaborative filtering/cost function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -218,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ml/anomaly detection.md",
+                "file": "ml/Collaborative filtering/cost function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ml/anomaly detection.md",
+                "file": "ml/Collaborative filtering/cost function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ml/anomaly detection.md"
+                "file": "ml/Collaborative filtering/cost function.md"
               }
             }
           },
@@ -287,17 +331,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "708199230ad99255",
+  "active": "5de6f3db8742f51b",
   "lastOpenFiles": [
+    "ml/Collaborative filtering/notation.md",
+    "ml/Collaborative filtering/cost function.md",
+    "ml/Collaborative filtering/gradient descent.md",
+    "Pasted image 20230205110704.png",
+    "Pasted image 20230205110709.png",
+    "img/Pasted image 20230205110649.png",
+    "ml/anomaly detection.md",
     "ml/k-means.md",
     "ml/decision trees.md",
-    "ml/decision tree v neural net.md",
-    "ml/snippets.md",
-    "ml/overfit underfit.md",
-    "ml/precision recal.md",
-    "ml/what to try.md",
-    "ml/layers.md",
-    "ml/snippets/my_softmax.md",
-    "ml/snippets/logistic_regression_lab.md"
+    "ml/decision tree v neural net.md"
   ]
 }
